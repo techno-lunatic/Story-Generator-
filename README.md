@@ -15,6 +15,9 @@ NovelGenerator/
 │   └── final_model/            # Reusable model checkpoint and matching tokenizer
 ├── .gitignore
 ├── README.md
+├── notebooks
+|    └── GPT_From_Scratch.ipynb
+|    └── NovelGenerator.ipynb    # Raw notebook of the project
 └── requirements.txt
 ```
 
